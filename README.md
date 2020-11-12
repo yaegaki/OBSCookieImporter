@@ -1,5 +1,5 @@
 # OBSCookieImporter
-Import OBS browser cookies from Chrome
+Import OBS browser cookies from Chrome.
 
 ## Requirements
 * Python 3
